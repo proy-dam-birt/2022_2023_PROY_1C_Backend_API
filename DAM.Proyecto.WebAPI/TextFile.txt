@@ -1,0 +1,11 @@
+﻿ 
+ ======================================     Newtonsoft   ============================================
+ ===  Convierte objetos entre los tipos .NET y Json 
+ 
+ *  convierte el objeto respuesta al tipo TIPO
+ var data = Newtonsoft.Json.JsonConvert.DeserializeObject<TIPO>(respuesta);
+
+
+ ====================================== Generar token ===============================================
+ https://qawithexperts.com/article/api/token-based-authentication-in-c-using-web-api/231
+
